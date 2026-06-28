@@ -15,7 +15,7 @@ pip install networkx matplotlib
 ```
 ## Como Executar no VS Code
 
-> Você pode rodar o simulador diretamente pela interface do editor (conforme estruturado na interface exibida em image_517ae4.png):
+> Você pode rodar o simulador diretamente pela interface do editor 
 
 > Abra a pasta do projeto no VS Code.
 
