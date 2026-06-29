@@ -22,3 +22,7 @@ pip install networkx matplotlib
 > Clique no menu superior Run e selecione Run Without Debugging (ou use o atalho Ctrl + F5).
 
 > No terminal integrado que abrir na parte inferior, insira os dados solicitados (como a probabilidade de conexão de arestas) e pressione Enter para acompanhar os resultados e a geração dos gráficos.
+
+## Geração de grafos
+
+![Gráficos de Comparação da Coloração](image.png)
